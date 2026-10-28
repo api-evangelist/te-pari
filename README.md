@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Te Pari is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tepari.com/
+Te Pari designs and manufactures world‑leading livestock handling equipment in Oamaru, New Zealand. Their product range includes cattle yards, crushes, sheep handling systems, dosing guns, EID readers and weighing platforms, offering integrated solutions that improve safety, efficiency and profitability for farms. With over four decades of experience, Te Pari combines robust hot‑dip galvanised steel construction with modern technology to deliver durable, reliable equipment for the global agricultural sector.
+
+**Areas:** Company · Livestock · Equipment · New Zealand · Agriculture
+
+## Te Pari on APIs.io
+
+Everything profiled for Te Pari is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/te-pari/](https://apis.io/providers/te-pari/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Te Pari API](https://apis.io/apis/te-pari/te-pari-api/) — Documentation, Instruction Manuals & Guides
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Te Pari Authentication](https://apis.io/security/te-pari/te-pari-authentication/)
+- [Te Pari Domain Security](https://apis.io/security/te-pari/te-pari-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Te Pari Scopes](https://apis.io/scopes/te-pari/te-pari-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.tepari.com/nz/)
+- [Documentation](https://www.tepari.com/nz/docs/)
+- [Getting started](https://www.tepari.com/nz/)
+- [Support](https://www.tepari.com/nz/contact/)
+- [Blog](https://www.tepari.com/nz/blog/)
+- [Terms of service](https://www.tepari.com/nz/pages/terms-and-conditions/)
+- [Privacy policy](https://www.tepari.com/nz/pages/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 18.4** — emerging · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 6.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/te-pari/](https://apis.io/providers/te-pari/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Te Pari: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/te-pari/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
